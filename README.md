@@ -1,2 +1,2 @@
 # learnGit
-This repository was for learning how to use git from AmigosCode
+This repository was used to learning how to use git from AmigosCode
